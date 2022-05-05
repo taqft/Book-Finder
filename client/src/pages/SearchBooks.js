@@ -72,14 +72,17 @@ const SearchBooks = () => {
     try {
       // eslint-disable-next-line
       const { data } = await saveBook({
-        variables: { bookToSave },
+        variables: { input: bookToSave },
       });
+
+      console.log(data);
 
       if (error) {
         throw new Error("something went wrong!");
       }
 
       // if book successfully saves to user's account, save book id to state
+      // and only set state when handleSaveBook is called
       setSavedBookIds([...savedBookIds, bookToSave.bookId]);
     } catch (err) {
       console.error(err);

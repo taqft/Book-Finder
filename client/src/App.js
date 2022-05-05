@@ -30,6 +30,7 @@ const client = new ApolloClient({
 
 function App() {
   return (
+    // make requests work w/ the Apollo server
     <ApolloProvider client={client}>
       <Router>
         <Navbar />
