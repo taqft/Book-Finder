@@ -117,7 +117,7 @@ Don't forget to give the project a star if you liked it!
 [stars-url]: https://github.com/theresaqueryforthat/Book-Finder/stargazers
 [issues-shield]: https://img.shields.io/github/issues/theresaqueryforthat/Book-Finder.svg?style=for-the-badge
 [issues-url]: https://github.com/theresaqueryforthat/Book-Finder/issues
-[license-shield]: https://img.shields.io/github/license/theresaqueryforthat/Book-Finder.svg?style=for-the-badge&cacheSeconds=3600
+[license-shield]: https://img.shields.io/github/license/theresaqueryforthat/Book-Finder.svg?style=for-the-badge&cacheSeconds=3599
 [license-url]: https://github.com/theresaqueryforthat/Book-Finder/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [product-screenshot]: assets/images/demo.gif
