@@ -26,7 +26,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/theresaqueryforthat/Book-Finder">
+  <a href="https://github.com/taqft/Book-Finder">
     <img src="assets/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -38,9 +38,9 @@
     <br />
     <a href="https://bbookfinder.herokuapp.com/">View Demo</a>
     ·
-    <a href="https://github.com/theresaqueryforthat/Book-Finder/issues">Report Bug</a>
+    <a href="https://github.com/taqft/Book-Finder/issues">Report Bug</a>
     ·
-    <a href="https://github.com/theresaqueryforthat/Book-Finder/issues">Request Feature</a>
+    <a href="https://github.com/taqft/Book-Finder/issues">Request Feature</a>
   </p>
 </div>
 
@@ -92,7 +92,7 @@ Don't forget to give the project a star if you liked it!
 * Have questions?
 * Reach out to us: 
 * https://github.com/RickyRicer/
-* https://github.com/theresaqueryforthat/
+* https://github.com/taqft/
 * [rick.ansay@gmail.com](mailto:ben.koenig512@outlook.com "Rick's contact Email")
 * [ben.koenig512@outlook.com](mailto:ben.koenig512@outlook.com "Ben's contact Email")
 
@@ -109,16 +109,16 @@ Don't forget to give the project a star if you liked it!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/theresaqueryforthat/Book-Finder.svg?style=for-the-badge
-[contributors-url]: https://github.com/theresaqueryforthat/Book-Finder/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/theresaqueryforthat/Book-Finder.svg?style=for-the-badge
-[forks-url]: https://github.com/theresaqueryforthat/Book-Finder/network/members
-[stars-shield]: https://img.shields.io/github/stars/theresaqueryforthat/Book-Finder.svg?style=for-the-badge
-[stars-url]: https://github.com/theresaqueryforthat/Book-Finder/stargazers
-[issues-shield]: https://img.shields.io/github/issues/theresaqueryforthat/Book-Finder.svg?style=for-the-badge
-[issues-url]: https://github.com/theresaqueryforthat/Book-Finder/issues
-[license-shield]: https://img.shields.io/github/license/theresaqueryforthat/Book-Finder.svg?style=for-the-badge&cacheSeconds=3599
-[license-url]: https://github.com/theresaqueryforthat/Book-Finder/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/taqft/Book-Finder.svg?style=for-the-badge
+[contributors-url]: https://github.com/taqft/Book-Finder/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/taqft/Book-Finder.svg?style=for-the-badge
+[forks-url]: https://github.com/taqft/Book-Finder/network/members
+[stars-shield]: https://img.shields.io/github/stars/taqft/Book-Finder.svg?style=for-the-badge
+[stars-url]: https://github.com/taqft/Book-Finder/stargazers
+[issues-shield]: https://img.shields.io/github/issues/taqft/Book-Finder.svg?style=for-the-badge
+[issues-url]: https://github.com/taqft/Book-Finder/issues
+[license-shield]: https://img.shields.io/github/license/taqft/Book-Finder.svg?style=for-the-badge&cacheSeconds=3599
+[license-url]: https://github.com/taqft/Book-Finder/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [product-screenshot]: assets/images/demo.gif
 [portfolio-shield]: https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white
