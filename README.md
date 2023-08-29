@@ -93,8 +93,8 @@ Don't forget to give the project a star if you liked it!
 * Reach out to us: 
 * https://github.com/RickyRicer/
 * https://github.com/taqft/
-* [rick.ansay@gmail.com](mailto:ben.koenig512@outlook.com "Rick's contact Email")
-* [ben.koenig512@outlook.com](mailto:ben.koenig512@outlook.com "Ben's contact Email")
+* [rick.ansay@gmail.com](mailto:rick.ansay@gmail.com "Rick's contact Email")
+* [ben.koenig@live.com](mailto:ben.koenig@live.com "Ben's contact Email")
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
