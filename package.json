@@ -77,10 +77,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/theresaqueryforthat/Book-Finder.git"
+    "url": "git+https://github.com/taqft/Book-Finder.git"
   },
   "bugs": {
-    "url": "https://github.com/theresaqueryforthat/Book-Finder/issues"
+    "url": "https://github.com/taqft/Book-Finder/issues"
   },
-  "homepage": "https://github.com/theresaqueryforthat/Book-Finder#readme"
+  "homepage": "https://github.com/taqft/Book-Finder#readme"
 }
